@@ -5,7 +5,7 @@
 
 **Landing page especial criada para celebrar momentos inesquecíveis com os amigos do Grupo Velha Guarda!**
 
- • [🎆 Veja o projeto online]https://masabino74.github.io/Amigos--Velha--Guarda/)
+ • 🎆 Veja o projeto online - https://masabino74.github.io/Amigos--Velha--Guarda/
 
 </div>
 
@@ -87,7 +87,7 @@ landing-page-velha-guarda/
 
 ### Desktop ### Mobile
 <div align="center">
-  <img src="https://via.placeholder.com/800x450/0a0a2e/FFD700?text=Desktop+Preview" alt="Desktop Preview" />
+  <img src="https://github.com/MaSabino74/Amigos--Velha--Guarda/blob/main/src/assets/img/Mobile_Desktop%20Preview.jpg"/>
 </div>
 ---
 
