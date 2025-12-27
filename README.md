@@ -5,7 +5,7 @@
 
 **Landing page especial criada para celebrar momentos inesquecíveis com os amigos do Grupo Velha Guarda!**
 
- • [🎆 Ver Ano Novo](https://seu-usuario.github.io/landing-pages-velha-guarda/ano-novo.html)
+ • [🎆 Veja o projeto online]https://masabino74.github.io/Amigos--Velha--Guarda/)
 
 </div>
 
