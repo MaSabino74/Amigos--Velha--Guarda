@@ -1,0 +1,72 @@
+/* Responsividade */
+@media (max-width: 1024px) {
+    .main-container {
+        flex-direction: column;
+    }
+
+    .left-section,
+    .right-section {
+        flex: none;
+        width: 100%;
+    }
+
+    .slider-container {
+        height: 500px;
+    }
+
+    .polaroid {
+        max-width: 320px;
+        padding: 12px 12px 50px 12px;
+    }
+
+    .polaroid-image {
+        height: 350px;
+    }
+
+    .polaroid-caption {
+        font-size: 0.95em;
+        bottom: 12px;
+        left: 12px;
+        right: 12px;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    .subtitle {
+        font-size: 1.4em;
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5em;
+    }
+
+    .subtitle {
+        font-size: 1.2em;
+    }
+
+    .left-section,
+    .right-section {
+        padding: 20px;
+    }
+
+    .slider-container {
+        height: 350px;
+    }
+
+    .message-card {
+        padding: 20px;
+    }
+
+    .reveal-btn {
+        font-size: 1em;
+        padding: 12px 30px;
+    }
+
+    .social-links a {
+        font-size: 1.5em;
+    }
+}
