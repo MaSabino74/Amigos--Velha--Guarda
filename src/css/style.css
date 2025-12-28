@@ -75,7 +75,7 @@
  .slider-hidden {
      opacity: 0;
      pointer-events: none;
-     transition: opacity 1s ease;
+     transition: opacity 3s ease;
  }
 
  /* Mostra o slider */
@@ -92,17 +92,7 @@
      justify-content: center;
      padding: 40px;
      position: relative;
-
-     /* ADIÇÕES PARA FADE-IN SINCRONIZADO COM O ÁUDIO */
-     opacity: 0;
-     /* começa invisível */
-     pointer-events: none;
-     /* impede interação antes da hora */
-     transition: opacity 1.5s ease;
-     /* fade suave quando aparecer */
  }
-
-
  .slider-container {
      width: 100%;
      max-width: 450px;
@@ -376,4 +366,5 @@
  .social-links a:hover {
      transform: scale(1.2) rotate(10deg);
      color: #FFF;
+
  }
